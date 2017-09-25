@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Accelerometer</string>
+
+    <string name="change_city">Zmień miejscowość</string>
+
+    <string name="welcome">Accelerometer</string>
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="place_not_found">Nie znaleziono miejsca</string>
+</resources>
